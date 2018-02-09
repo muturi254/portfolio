@@ -1,0 +1,21 @@
+.jumbotron{
+    background-image: url('img/dev.jpg');
+    background-size: cover;
+    margin-bottom: 0px;
+    
+}
+#portfolio img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    padding:5%;
+}
+#portfolio1{
+    padding-left: 5%;
+}
+.row1{
+    padding: 5%;
+}
+.one{
+ border-right: 1px solid red;
+}
